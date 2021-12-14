@@ -4,7 +4,7 @@
 #
 Name     : pypi-typing
 Version  : 3.10.0.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/b0/1b/835d4431805939d2996f8772aca1d2313a57e8860fec0e48e8e7dfe3a477/typing-3.10.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b0/1b/835d4431805939d2996f8772aca1d2313a57e8860fec0e48e8e7dfe3a477/typing-3.10.0.0.tar.gz
 Summary  : Type Hints for Python
